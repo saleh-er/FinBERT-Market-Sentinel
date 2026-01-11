@@ -1,0 +1,10 @@
+# Machine Learning (NLP) - Mise à jour pour sécurité 2026
+transformers>=4.48.0
+torch>=2.6.0 --index-url https://download.pytorch.org/whl/cpu
+sentencepiece
+
+# Data & Database
+pandas
+sqlalchemy
+psycopg2-binary
+yfinance
