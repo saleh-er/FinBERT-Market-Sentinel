@@ -1,4 +1,5 @@
 # 📈 FinBERT Market Sentinel
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
 An end-to-end real-time financial sentiment analysis pipeline. This project monitors stock market news, processes them through a specialized Deep Learning model (FinBERT), and visualizes the market "mood" via an interactive dashboard.
 
