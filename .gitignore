@@ -1,0 +1,38 @@
+
+.env
+config.py
+*.key
+secrets.json
+
+# --- DOCKER & DATA ---
+
+postgres_data/
+docker-compose.override.yml
+
+# --- PYTHON ---
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environnements virtuels (locaux)
+venv/
+.venv/
+env/
+ENV/
+
+# --- MODÈLES IA ---
+
+models/
+huggingface_cache/
+*.bin
+*.pt
+*.safetensors
+
+# --- SYSTÈME & IDE ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
