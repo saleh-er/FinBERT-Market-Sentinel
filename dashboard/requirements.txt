@@ -1,0 +1,11 @@
+# UI Framework
+streamlit
+
+# Data Analysis
+pandas
+plotly
+
+# Database connection
+sqlalchemy
+psycopg2-binary
+plotly
